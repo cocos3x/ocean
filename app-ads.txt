@@ -1,4 +1,5 @@
 google.com, pub-3872505378436008, DIRECT, f08c47fec0942fa0
+
 applovin.com, f829502260372bfa0ea9874250e3f032, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
@@ -35,7 +36,8 @@ video.unrulymedia.com, 169764768, RESELLER
 video.unrulymedia.com, 322585001, RESELLER
 xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
-yieldmo.com, 3591550211052216798, RESELLER, 6a92
+yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
+zmaticoo.com, 5135655, RESELLER
 
 33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
 aceex.io, 1926, RESELLER, b1cf3c874d5c6682
