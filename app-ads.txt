@@ -3,6 +3,9 @@ ownerdomain=ocean-soft.vercel.app
 #Admob
 google.com, pub-3872505378436008, DIRECT, f08c47fec0942fa0
 
+#meta
+facebook.com, 2667359453603793, DIRECT, c3e20eee3f780d68
+
 #Applovin
 applovin.com, f829502260372bfa0ea9874250e3f032, DIRECT
 adyoulike.com, 2d578cf695c89ec2ba707280319d2020, RESELLER
