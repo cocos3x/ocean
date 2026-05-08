@@ -1,0 +1,43 @@
+/* Fix height slider main */
+
+@media(max-width:359px) {
+    #slide-main {
+        height: 420px;
+    }
+}
+
+@media(min-width: 360px) and (max-width: 480px) {
+    #slide-main {
+        height: 420px;
+    }
+}
+
+@media(min-width: 481px) and (max-width: 767px) {
+    #slide-main {
+        height: 420px;
+    }
+}
+
+@media(min-width: 768px) and (max-width: 1024px) {
+    #slide-main {
+        height: 480px;
+    }
+}
+
+@media(min-width: 1024px) and (max-width: 1280px) {
+    #slide-main {
+        height: 460px;
+    }
+}
+
+@media(min-width: 1280px) AND (max-width: 1919px) {
+    #slide-main {
+        height: 460px;
+    }
+}
+
+@media(min-width: 1920px) {
+    #slide-main {
+        height: 460px;
+    }
+}
